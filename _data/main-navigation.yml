@@ -41,6 +41,9 @@
     
     - title: Security
       url: /blueprint/security.html 
+    
+    - title: Assurance toolkit
+      url: /blueprint/toolkit.html
 
     - title: Automation
       url: /blueprint/automation.html 
